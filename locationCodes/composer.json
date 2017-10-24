@@ -1,0 +1,6 @@
+{
+    "require": {
+        "robmorgan/phinx": "^0.9.1",
+        "symfony/filesystem": "^3.3"
+    }
+}
