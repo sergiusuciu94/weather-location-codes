@@ -8,7 +8,7 @@ A scraper and migration + seeds for location codes to be used with Yahoo! Weathe
 2) composer
 
 # How to run
-1) cd $YOUR_LOCATION/locationCodes/locationCodes/
+1) cd `$YOUR_LOCATION/locationCodes/locationCodes/`
 2) run `scrapy crawl locations -o locations.json`
 3) cd ..
 4) edit `phinx.yml` to match you database data
